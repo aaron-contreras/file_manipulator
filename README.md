@@ -17,7 +17,8 @@ If bundler is not being used to manage dependencies, install the gem by executin
 ## Usage
 
 1. Clone the repo
-2. `bin/run`
+2. `bin/setup`
+3. `bin/run`
 
 ## Development
 
